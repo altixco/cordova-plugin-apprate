@@ -71,6 +71,9 @@ under the License.
 
         <framework src="StoreKit.framework"/>
     </platform>
+    
+    <platform name="browser">
+    </platform>
 
     <platform name="blackberry10">
     </platform>
